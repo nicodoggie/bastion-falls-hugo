@@ -8,3 +8,8 @@
  * * [The Church of the Divine Masochist](religions/divine-masochist.md)
  * * [The Reformed Church of the Divine Masochist](religions/reformed-divine-masochist.md)
  * * [The Revivalist Church of the Divine Masochist](religions/revivalist-divine-masochist.md)
+ * Languages
+ * * [Burtian](languages/burtian.md)
+ * * [Kolhan](languages/kolhan.md)
+ * * [Poasan](languages/poasan.md)
+ * * [Tanduarian](languages/tanduarian.md)
