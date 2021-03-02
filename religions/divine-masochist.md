@@ -36,6 +36,36 @@ well as the secular Kalasarian government.
 
 ### The Angels of Creation and the Demons of Ruin
 
+The Angels of Creation were creatures of immense power, said to have been
+endowed by God himself with the powers of creation. However, as they were
+enacting His plan, they have begun to question the merits of certain points of
+the Grand Plan. After they had come to complete construction of the universe,
+they have perceived what they thought of as imperfections in the fabric of the
+universe, focusing on the portfolio bestowed upon them.
+
+The extreme focus had led them to lose sight of the greater purpose of the Plan.
+They obsessed in the primacy of their domains, that they have turned into dark,
+destructive versions of themselves. If they see something that goes beyond their
+mandate, they immediately seek to destroy it.
+
+The Angels of Creation were not part of the original canon of scripture of the
+early Church. It had been an extremely popular novel, which incorporated
+religious themes from the displaced pagan religions of the Kalasar. The story
+continued with the Venerable Mother and the Divine Masochist, preaching in the
+desert, where they were confronted by the demons one by one. The Divine
+Masochist's teachings and miracles have, through the acceptance of pain, and its
+release, reformed the demons and had turned them back to angels.
+
+#### The Angel of Humility / The Demon of Inhibition
+
+#### The Angel of Justice / The Demon of Intolerance
+
+#### The Angel of Delight / The Demon of Debauchery
+
+#### The Angel of Nature / The Demon of Pestilence
+
+#### The Angel of Civilization / The Demon of Hubris
+
 ## Hierarchy
 
 ## Relics
