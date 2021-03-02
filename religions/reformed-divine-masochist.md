@@ -13,15 +13,7 @@ a puppet warlord.
 ## History
 
 ## Beliefs
-
-### The Divine Masochist
-
-### The Venerable Mother
-
-### The Angels of Creation and the Demons of Ruin
-
 ## Hierarchy
-
 ## Relics
 
 ## Canon
