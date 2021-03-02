@@ -1,33 +1,64 @@
 # The Church of the Divine Masochist
 
 One of the major religions of the countries spawned by the former Kalasarian
-Empire, the Church of the Divine Masochist's ultimate origin is from a religion
-primarily worshiped in a small settlement in an island off the coast of Giza.
+Empire, the Church of the Divine Masochist's ultimate origin is from the Arzhadad
+religion worshiped in a small settlement in an island off the coast of Giza
+called Arzhadi-et-Betet.
 
-That religion, now unknown, had believed that a great theo-political leader
-from their people would rise to take the reins of government from the oppressive
-Kalasarian regime and free them from their yoke. They rallied around an
-influential political figure said to be descended from a lost
-religiously-important lineage, who they believed was the "one appointed by God".
-
-The man, however, was unceremoniously imprisoned by the Kalasarian governor and
-was scheduled to be whipped to death within a week after his capture. The
-governor's daughter, however, fell in love with the man. She pleaded with her
-father to release him to her as a slave--a gift for her birthday.
-
-Since then, the two exchanged parables about sin and virtue, before, after or
-during various acts of sado-masochism. The governor's daughter then began to
-believe that her slave was meant to be something greater, and she helped him
-launch a massive propaganda campaign that undermined her father's authority. 
-
-The two had amassed a number of followers, including some prominent religious
-scholars, convicts said to have been wrongfully accused, and the governor's third son.
-The woman's brother. Collectively, they performed miracles and acts of
-compassion, at the same time rebuking the current religious establishment, as
-well as the secular Kalasarian government.
+Prophets of the Arzhadad religion had foretold the arrival of a great
+theo-political leader who would lead their people in rebellion, wand would
+overthrow the oppressive Kalasarian regime that had conquered and settled upon
+their lands for nearly a century. 
 
 ## History
 
+### The One Appointed by God
+
+In the 7th century, a group of hermetic monks believed that they have finally
+found the "one appointed by God", and had raised him as a vicious critic of the
+Arzhadad theocracy, and the Kalasarian empire's governance. By the time the man 
+was his 20s, Hesse son of Hoseppe (Arsi-tam-Osepi in their language) became a
+very influential political figure. His father's lineage was traced by Arzhadi
+scribes to a the Lewanan--a tribe of priests that once led the golden age of the
+Arzhadad. 
+
+### Marsa's Slave
+
+Hesse, however, was unceremoniously imprisoned by the Kalasarian governor
+Pasanian, and was sentenced to death by whipping within a week after his
+capture. The governor's daughter Marsa was however, quite taken in by Hesse. So
+she pleaded with her father to release him to her as a slave--a gift for her
+birthday. He agreed reluctantly, and burned slave brands into Hesse's left
+shoulder before handing Marsa his writ of slavery. 
+
+Marsa had always admired Hesse's assuredness, but had disagreed with his many
+political, moral and theological stances, so as Hesse labored under Marsa, she
+had confronted him with many philosophical problems. Hesse answered her problems
+with parables about various people and the fine line between pleasure and pain.
+
+The intensity of the arguments had only become more aggressive, which ultimately
+came to one of the first written depictions of sado-masochism. Hesse was so
+enraptured by the acts, that Marsa herself became the most ardent believer. 
+
+### The Mission
+
+Theirs was so profound a partnership, that thousands upon thousands watched
+their demonstrations, which was interspersed with Hesse's teachings about the
+importance of the application of pain and suffering to understand the meaning of
+pleasure and love.
+
+The two had amassed a large number of followers, including some prominent
+religious scholars, most of whom once derided Hesse as a fraud. The doctrine of
+the masochist also drew in convicts said to have been wrongfully accused, and
+had been forced to know pain. The governor's third son, Marsa's half-brother
+Meahu was also enamored, and eventually became one of the most devout followers.
+
+The Arzhadad religious establishment, however, viewed Hesse's teachings to be
+unorthodox and dangerous, most profoundly, in their view, was the religious
+position Marsa was being given as their followers have come to view her as the
+Venerable Matron. The subservient role that Hesse apparently took was
+misconstrued as acceptance of slavery, which both Hesse and Marsa vehemently
+denied. 
 ## Beliefs
 
 ### The Divine Masochist
