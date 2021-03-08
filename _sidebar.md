@@ -7,6 +7,10 @@
  ** Cornups
  ** Face-stealers
  ** Kurerans
+ * Continents
+ ** [Betera](continents/betera.md)
+ ** [Ralaka](continents/ralaka.md)
+ 
  * [Countries](countries.md)
  ** Ar
  ** [Ahuria](countries/ahuria.md)

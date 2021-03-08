@@ -1,6 +1,6 @@
 # Poasan (WIP)
 
-quick and dirty phonology:
+## Quick and dirty phonology:
 
 consonants:
 P: p b t d k ?
@@ -9,12 +9,22 @@ N: n
 A: r
 L: l 
 vowels:
-a i o 
+a i o u
 
 syllables:
+CV
 CVV
-CVCV
 
 /h/ is the only word-initial fricative
 /n/ cannot be word-initial
 
+## Wordlist
+
+| kouro | n | mountain
+| haara | n | sea
+| tepara | v | to shine  
+| lipara | v | to wane
+| Koara | n | north
+| posari | n | south   
+| tenara | n | east
+| liata | n | west

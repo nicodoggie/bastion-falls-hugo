@@ -59,7 +59,20 @@ position Marsa was being given as their followers have come to view her as the
 Venerable Matron. The subservient role that Hesse apparently took was
 misconstrued as acceptance of slavery, which both Hesse and Marsa vehemently
 denied. 
+
+On the 5th year of preaching, a novice follower and a partner had performed some
+acts of sado-masochism, but had gone too far, leading to severe internal
+bleeding and death. It was all the Arzhadad theocracy needed to have cause to
+incarcerate Hesse and Marsa. They had implored the governor to execute him,
+using the prophecy as proof that the true goal of the mission was to undermine
+the Kalasarian regime, and to recruit rebels to fight. Stories of mass
+gatherings have been common enough that the governor had reason to believe the
+report. Governor Pasarian then ordered Hesse and his daughter captured.
+
+
 ## Beliefs
+
+
 
 ### The Divine Masochist
 
