@@ -6,15 +6,29 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
 </head>
 <body>
   <div id="app"></div>
+  <style>
+    .place-sidebar {
+      border:var(--hr-border, 0);
+      float: right;
+      padding: 1rem;
+      margin: 1.5rem;
+    }
+    .place-sidebar > * {
+      font-size: 10px;
+    }
+  </style>
   <script>
     window.$docsify = {
       name: 'Bastion Falls',
+      coverpage: true,
       repo: 'https://github.com/nicodoggie/bastion-falls.git',
-      loadSidebar: true
+      loadSidebar: true,
+      autoHeader: true,
+      subMaxlevel: 3
     }
   </script>
   <!-- Docsify v4 -->

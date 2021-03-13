@@ -51,20 +51,20 @@ the chaos and had even sacked the City of Poasah itself. However, a coalition
 mobilized by the Emperor in Bastion, had driven the Ahurian forces back,
 settling close to Kolha's modern border with the Kingdom of Poasah.
 
-After the death of Kolha XI, god-prince of Kolha Ahuria, a coalition formed by
+After the death of Kolha XVIII, god-prince of Kolha Ahuria, a coalition formed by
 his children refused to accept a new prince from the mainland. They were
 convinced that one from the mainland could never truly understand the different
 socio-political situation in the Kolhan lands, and their proximity to their
 erstwhile foes. 
 
-Kolha XI's seven children commissioned a grand fleet to form a blockade on the
-Mirian shore to prevent the arrival of the newly ordained Kolha XII. Mainland
+Kolha XVIII's seven children commissioned a grand fleet to form a blockade on the
+Mirian shore to prevent the arrival of the newly ordained Kolha XIX. Mainland
 Ahurian generals, however, found a solution by sending a fleet of privateer
 ships with a mix of Ahurian soldiers deployed from Manascula. and a mercenary
 force from Tanduaria and Nura. 
 
-After 20 years of civil war, Kolha XII was able to keep most of the northern
-territory when he brokered a truce. Two of Kolha XI's children died during the
+After 20 years of civil war, Kolha XIX was able to keep most of the northern
+territory when he brokered a truce. Two of Kolha XVIII's children died during the
 wars, but the remaining five portioned of the southern territories for
 themselves, and formed individual states: Ar, Kalamba, Mir, Sarha and Sur.
 

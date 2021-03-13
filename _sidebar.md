@@ -1,6 +1,6 @@
  * [Bastion Falls](/)
- * Places of Interest
- * Events
+ * [Timeline of Events](/timeline.md)
+ * [Places of Interest](/places/)
  * Races
  ** Normative Humans
  ** Orcines/Verdines
@@ -38,7 +38,7 @@
  ** [The Reformed Church of the Divine Masochist](religions/reformed-divine-masochist.md)
  ** [The Revivalist Church of the Divine Masochist](religions/revivalist-divine-masochist.md)
  * Languages
+ ** [Ahurian](languages/ahurian.md)
  ** [Burtian](languages/burtian.md)
- ** [Kolhan](languages/kolhan.md)
  ** [Poasan](languages/poasan.md)
  ** [Tanduarian](languages/tanduarian.md)

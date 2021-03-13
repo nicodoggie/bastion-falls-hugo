@@ -1,6 +1,7 @@
 # Bastion Falls
 
-> When the end comes, nary a man, woman or child will know not.
+The year: 1275 and the world is in the brink of a disaster of a scale that was
+not even thought possible.
 
 50 years ago, Bastion, considered the most important city by many states and
 religions in the land, had been consumed by an inexplicable dark orb of massive
