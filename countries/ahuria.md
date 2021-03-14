@@ -86,4 +86,4 @@ The Ahurians observe a rigid social structure with defined social roles.
 
 ### Karsharti
 
-### Hatsi
+### Harsi
