@@ -7,7 +7,7 @@
 <hr>
 <dl>
   <dt>Location</dt>
-  <dd>Port Piya, Sorha, Ahuria</dd>
+  <dd>Posara Sea, off the coast of Sorha Ahuria</dd>
   <dt>Date</dt>
   <dd>1275-07-03</dd>
 </dl>
@@ -80,6 +80,28 @@ current state. They had to make port in Port Piya.
   <dt>Location</dt>
   <dd>Port Piya, Sorha, Ahuria</dd>
   <dt>Date</dt>
-  <dd>1275-07-03</dd>
+  <dd>1275-07-04</dd>
 </dl>
 </div>
+
+The ships docked at Port Piya, with 2 of 3 of their escort ships now gone, taken
+beneath the waves by the giant squid. Chian sent an attendant to arrange
+accomodations at an inn in the Provobati ward of the port city. She was
+instructed to pose as a servant for a Poasan merchant family, seeking passage to
+a city to the west of the Sorha princedom.
+
+There were legitimate concerns of assassination against the prince and her
+daughters, and so it seemed prudent to hide their identities, as they attempted
+to find passage overland to the Gateway of the Gods, a port city with ships to
+the Isle of the Gods.
+
+Once settled, Fai had taken the face of Sorscha once more in order to gain
+intelligence on the mercenary groups in the area. She did not want threats to
+the prince to undermine her efforts.
+
+As Sorscha, she visited an inn near the docks called The Pierced Wave, where she
+found a mercenary company comprised mostly of non-Ahurian privateers. she posed
+as a mercenary herself and found that there was a caravan leaving mid-morning.
+
+Next, she tried to find a more seedy sort of hirelings.
+
