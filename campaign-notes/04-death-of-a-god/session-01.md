@@ -1,6 +1,6 @@
 # Death of a God: Session One
 
-## Boatride to the Gods
+## Boat Ride to the Gods
 
 <div class="event-infobar"'>
 <h3>Setting</h3>
@@ -40,7 +40,7 @@ was yet impossible for both the Revivalist, and their rival organization, the
 [Reformist Church](/religions/reformed-divine-masochist.md).
 
 Both groups wanted headway into their continent for reasons unknown to Fai. She
-didn't really care, though. She only wanted to impress her master Torumaline
+didn't really care, though. She only wanted to impress her master Tourmaline
 Sabrege, whose aim was the spread of the Revivalist doctrine across the known
 world. So she, known to both religious groups by her other face, the
 platinum-haired Sorscha, pushed to be assigned to the job, despite their
@@ -129,10 +129,10 @@ that sort of stuff was not quite so popular in Ahuria. She was told to ask for a
 man called Troy in an inn within the Provobati Ward, and that he may pay up to
 20 pieces of gold a session depending on the quality of the service provided.
 
-Troy Montague, a traveling merchant associated with the Mirian Trading Company,
-was waiting for someone to heed his call, and utter the phrase "let the mistress
-enter". He is a masochist, and one so complete that Sorscha suspected that he
-might be a member of the Reformist Church. She performed her role as a
+Troy Montague, a traveling merchant associated with a large collective of
+traders, was waiting for someone to heed his call, and utter the phrase "let the
+mistress enter". He is a masochist, and one so complete that Sorscha suspected
+that he might be a member of the Reformist Church. She performed her role as a 
 dominatrix very convincingly--enough that Troy could not even dare to withhold
 information from her as she asked her questions. 
 

@@ -1,9 +1,9 @@
 # The Church of the Divine Masochist
 
 One of the major religions of the countries spawned by the former Kalasarian
-Empire, the Church of the Divine Masochist's ultimate origin is from the Arzhadad
-religion worshiped in a small settlement in an island off the coast of Giza
-called Arzhadi-et-Betet.
+Empire, the Church of the Divine Masochist's ultimate origin is from the
+[Arzhadad religion](/religions/arzhadad.md) worshiped in a small settlement in
+an island off the coast of Giza called Arzhadi-et-Betet.
 
 Prophets of the Arzhadad religion had foretold the arrival of a great
 theo-political leader who would lead their people in rebellion, wand would
