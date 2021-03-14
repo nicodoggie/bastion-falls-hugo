@@ -1,5 +1,7 @@
 # Betera
 
+![Map of Betera](../assets/maps/map-of-betera.png)
+
 A continent that contains the following present-day countries:
 
  * Ar

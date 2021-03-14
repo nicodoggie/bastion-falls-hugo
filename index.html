@@ -11,24 +11,27 @@
 <body>
   <div id="app"></div>
   <style>
-    .place-sidebar {
+    [class*=infobar] {
       border:var(--hr-border, 0);
       float: right;
       padding: 1rem;
       margin: 1.5rem;
     }
-    .place-sidebar > * {
+    [class*=infobar] > * {
       font-size: 10px;
     }
   </style>
   <script>
     window.$docsify = {
       name: 'Bastion Falls',
+      nameLink: '/#/?id=bastion-falls',
       coverpage: true,
       repo: 'https://github.com/nicodoggie/bastion-falls.git',
       loadSidebar: true,
+      auto2top: true,
       autoHeader: true,
-      subMaxlevel: 3
+      maxLevel: 3,
+      subMaxlevel: 5
     }
   </script>
   <!-- Docsify v4 -->

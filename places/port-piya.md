@@ -1,6 +1,6 @@
 # Port Piya
 
-<div class="place-sidebar"'>
+<div class="place-infobar"'>
 <h3>Port Piya</h3>
 <hr>
 <dl>
@@ -30,3 +30,7 @@ would be in a less cosmopolitan location.
 Foreign trade groups and banking collectives do have branches in Port Piya in
 order to easily conduct business. They are registered with the local Provobati
 trade guild, as weil as with the Ahurikishki cultural ministry.
+
+### Mirian Shipping Co.
+
+The Mirian Shipping Company bring in goods from as far as the 
