@@ -5,14 +5,4 @@ a D&D campaign for 5e
 
 When the end comes, nary a man, woman or child will know not
 
-
-
-
-
-
-
-
-
-
-
 [Read More](#bastion-falls)

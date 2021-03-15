@@ -1,5 +1,9 @@
 # The Church of the Masochist Revived
 
+> [!WARNING]
+> This article is incomplete! It needs more work!
+
+
 The Church of the Masochist Revived, known colloquially as The Revivalist Church
 had only recently "rebranded" themselves as being a separate entity from the
 [Reformed Church of the Divine Masochist](/religions/divine-masochist.md).

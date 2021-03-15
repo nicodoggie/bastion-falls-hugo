@@ -1,5 +1,8 @@
 # Ahurian Language
 
+> [!WARNING]
+> This article is a stub! It needs more work!
+
 The Ahurian language has 6 registers:
  * The Tongue of the Gods: a familiar form spoken by the Ansa with each other,
    or with special members of the Ahorikishki

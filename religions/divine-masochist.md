@@ -1,5 +1,10 @@
 # The Church of the Divine Masochist
 
+
+> [!WARNING]
+> This article is incomplete! It needs more work!
+
+
 One of the major religions of the countries spawned by the former Kalasarian
 Empire, the Church of the Divine Masochist's ultimate origin is from the
 [Arzhadad religion](/religions/arzhadad.md) worshiped in a small settlement in

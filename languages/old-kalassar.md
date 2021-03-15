@@ -1,5 +1,8 @@
 # Old Kalassar
 
+> [!WARNING]
+> This article is a stub! It needs more work!
+
 The language spoken in the classical Kalassarian Empire, and was used by
 scholars until the Unification of Poasah.
 

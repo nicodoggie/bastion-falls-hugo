@@ -1,5 +1,7 @@
-# Poasan (WIP)
+# Poasan Language
 
+> [!WARNING]
+> This article is a stub! It needs more work!
 ## Quick and dirty phonology:
 
 consonants:

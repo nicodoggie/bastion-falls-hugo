@@ -1,5 +1,8 @@
 # The Reformed Church of the Divine Masochist
 
+> [!WARNING]
+> This article is a stub! It needs more work!
+
 Formed in the years succeeding the Destruction of Bastion Cathedral, and the
 Fall of Bastion itself, the Reformists, as they call themselves, broke off from
 the orthodoxy in its entirety. The violent and apparently supernatural
