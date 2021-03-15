@@ -75,15 +75,3 @@ recently granted to the 13th ranking Ansa.
 ## Culture
 
 The Ahurians observe a rigid social structure with defined social roles. 
-
-### Ansa Ahuriyata
-
-### Akkibati
-
-### Provobati
-
-### Ponsabati
-
-### Karsharti
-
-### Harsi
