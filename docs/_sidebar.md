@@ -1,4 +1,3 @@
- * [Bastion Falls](/#/?id=bastion-falls)
  * [Timeline of Events](/timeline.md)
  * [Places of Interest](/places/)
  

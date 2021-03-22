@@ -1,0 +1,16 @@
+{
+  "name": "bastion-falls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/github:nicodoggie/bastion-falls.git",
+  "author": "Nico Suarez <nicodoggie@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "scripts": {
+    "serve": "docsify serve docs",
+    "start": "docsify start docs"
+  },
+  "dependencies": {
+    "docsify": "^4.12.1",
+    "docsify-cli": "^4.4.3"
+  }
+}

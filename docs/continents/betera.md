@@ -1,6 +1,6 @@
 # Betera
 
-![Map of Betera](../assets/maps/map-of-betera.png)
+<a href='/assets/maps/map-of-betera.png' target="_blank">![Map of Betera](../assets/maps/map-of-betera.png)</a>
 
 A continent that contains the following present-day countries:
 
