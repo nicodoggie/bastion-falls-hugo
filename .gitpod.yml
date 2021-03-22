@@ -4,7 +4,7 @@ tasks:
     command: yarn serve
 ports:
   - port: 3000
-
+    onOpen: open-preview
 github:
   prebuilds:
     master: true
