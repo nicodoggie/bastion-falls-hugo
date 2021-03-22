@@ -4,3 +4,7 @@ tasks:
     command: yarn serve
 ports:
   - port: 3000
+
+github:
+  prebuilds:
+    master: true
