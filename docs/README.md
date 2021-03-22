@@ -1,5 +1,7 @@
 # Bastion Falls
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nicodoggie/bastion-falls)
+
 The year: 1275 and the world is in the brink of a disaster of a scale that was
 not even thought possible.
 
