@@ -8,3 +8,8 @@ ports:
 github:
   prebuilds:
     master: true
+
+vscode:
+  extensions:
+    - robole.markdown-snippets@0.6.0:qq4J4xA9fQWqoYzOMxooPA==
+    - ban.spellright@3.0.56:YwD4WJevKAZNKRwbc5b7QA==
