@@ -35,18 +35,30 @@ before the Great Ahuriyata came to eminence already.
 | 10^15   | Chohiya |
 
 Next numbers would be a compound of the larger place, a place marker, followed by the lower
-place, but only with the digits 1-10. Only when we get to the 100's do we still
-use 11 and 12. It the least significant digit is a zero, then it is not verbalized.
+place, but only with the digits 1-10. 
+
+Only when we get to the 110s and 120s do we still use 11 and 12 as 11 * 10 + n, colloquially.
+Logicians will use  100 + 10 + 1 to say the number 111.
+
+If the least significant digit is a 0, then it is not verbalized.
+If the highest significant digit is a 1, then it is not verbalized
 
 For example:
 
 ```
+10 = Pasa
+20 = Sina . Pa (tens place marker) = Sinapa
 21 = Sina (2) . Pa (tens place marker) . Ture (1) = Sinapature
 24 = Sina . Pa . Weti = Sinapaweti
 77 = Susu . Pa . Susu = Susupasusu
 100 = Yosana
-110 = Tosa . Yo (hundreds place marker) = Tosayo 
-111 = Tosa . Yo . Ture = Tosayoture
+110 = Tosa . Yo (hundreds place marker) = Tosayo, colloquially
+110 = Yo . Pa = Yopa
+111 = Tosa . Yo . Ture = Tosayoture, colloquially
+111 = Yo . Pa . Ture = Yopature, officially
+127 = Gora . Yo . Susu = Gorayosusu
+200 = Sina . Yo = Sinayo
+1200 = Ki (thousands place marker) . Sina . Yo = Kisinayo 
 ```
 ## Registers
 
