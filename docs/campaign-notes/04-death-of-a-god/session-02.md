@@ -153,8 +153,7 @@ Almost the instant they finished with Creamy, they saw Mat exit the pavilion.
 Fai prodded Mat for answers to her questions. It turns out, Gravy was not
 amenable to being hired as a prostitute at all, at whatever price. But also,
 that the man seemed distracted during their meeting. Gravy seemed to have been
-playing wt
-
+playing with a black-purple orb.
 
 
 Mat buys Fai her whip. Fai steals a choker and some leather straps with a brass

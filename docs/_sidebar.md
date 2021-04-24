@@ -5,7 +5,7 @@
  ** Normative Humans
  ** Orcines/Verdines
  ** Cornups
- ** Face-stealers
+ ** [Face-stealers](https://www.dndbeyond.com/races/685721-face-stealer)
  ** Kurerans
 
  * Continents
