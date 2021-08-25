@@ -5,6 +5,7 @@
  ** Normative Humans
  ** Orcines/Verdines
  ** Cornups
+ ** [Dolo-Dolo](races/dolo-dolo)
  ** [Face-stealers](https://www.dndbeyond.com/races/685721-face-stealer)
  ** Kurerans
 
