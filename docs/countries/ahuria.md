@@ -1,19 +1,41 @@
 # Ahuria
 
-The Ahurian Empire is a massive theocratic autocracy ruled by a lineage of
-god-princes, who are both the secular and temporal centers of their
-government. 
+The Ahurian Empire is a massive theocratic autocracy ruled by a lineage of god-princes, who are both the secular and temporal centers of their government. The country claims possession the entirety of the continent of [Ralaka](/continents/ralaka). and the Gizan Peninsula, as well as a huge portion of the eastern half ot the Ranoan Peninsula.
+
 
 ## Geography
 
-Ahuria stretches across almost the entirety of the Beteran continent, with the
-exception of its south eastern reaches barred by an insurmountable desert. In
-addition, the Kolha region of Ahuria is on the Ralakan continent, to the east of
-southern Poasah. The Ahurian mainland bordered to the east by the Sea of Giza, to the west by the
-Sarham Sea, to the north, the Posaran Sea.
+### The Ahurian Mainland
 
-Ahuria has 12 administrative regions, one for each of the Twelve God-Princes of
-the Ahore.
+The Ahurian Mainland politically stretches across almost the entirety of the Ralakan continent. The population is distributed across almost every region within the continent, with the exception of its south eastern reaches, which are barred by an impassable desert. 11 of the 14 administrative regions of Ahuria are within the Ahurian Mainland. It is bordered to the north by the Posaran Sea, to the west by the Sarham Sea, and to the east by the Sea of Giza.
+
+### Kolha
+
+> [!WARNING]
+> Poasan administrative regions aren't completely defined as of yet.
+> 
+> Portions of this document referencing the Poasan Dioceses aside from
+> the Astow region of Northern Poasah are to be treated as 
+> placeholders.
+
+Kolha, Ahuria's twelfth administrative region, is isolated from the rest of Ahuria, in the center of the Beteran Landmass. It is bounded to the north and west by the Central and Southern Poasan Dioceses, respectively. To the north east, it meets the Gulf of Eternal Dispute. To the south and east, Kolha shares borders with three of its former provinces. Sur and Kalamba to the east, and Ar to the south. These states are 3 of the 5 so-called [Secesionist Principalities](/articles/secesionist-principalities.md) tnat have formed after the death of Kolha XVIII.
+
+### Tarsan Possessions
+
+> [!WARNING]
+> Burtian politics prior to the Fall of Bastion is yet to be expanded.
+> 
+> Portions of this document referencing the City of Burtz and its
+> sphere of control as the Eastern Kalassarian Empire, and their
+> diplomatic situation should be considered a placeholder.
+
+The countries of Giza and Manascula were client nations of the Burtian Eastern Kalassarian Empire taken over by the Ahurians as their power
+began to wane. Giza was the first large territorial acquisition taken 
+by Ahuria after the semi-mythical days of the Great Ahuriyata.
+
+Giza, taken first, is bounded to the north by Manascula, to the west by the Posarang Sea, to the south by the Sea of Giza, and to the east by the Ya'naa Desert.
+
+Manascula, taken nearly half a century later, is bounded to the west by Burtz and the Calamutian Strait, the north and east by the Ogadian mountain range, and to the south by Giza.
 
 ### Sorha
 
