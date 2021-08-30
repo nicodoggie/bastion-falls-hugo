@@ -20,7 +20,7 @@ interest in re-examining these histories and called into question the historiogr
 ### Ahurian Tradition
 
 Most Ahurians have only heard of the Dolo-Dolo through the Tale of the Great Ahuriyata and the Dolo-Dolo Trickster.
-Some variations of the tale exist, as it was conveyed orally by many a tavern performer within Ahuria's centuries
+  Some variations of the tale exist, as it was conveyed orally by many a tavern performer within Ahuria's centuries
 of dominance in the Ralakan continent. It tells the story of how the Great Ahuriyata had first travelled through the 
 Forests of Sorha in search of the mountain the Stairway to the Heavens would eventually be founded upon. WIthin
 that forest, there was a mysterious creature that seemed to stalk the Great Ahuriyata, with the intention of 
@@ -63,14 +63,27 @@ Orb of Binding to feed upon that larger, more directed source of magic and free 
 ## History
 
 Evidence suggests that the Dolo-Dolo were the first settlers of the Ralakan Continent. Earliest fossils of
-Dolo-Dolo settlements were found in the Purha region. Within 100,000 years, they would have populated regions 
-up to Pise.
+Dolo-Dolo settlements were found in the Purha area. Within 100,000 years, they would have settlements found all over the continent up to present-day Pise.
 
-Fragments of Kureran thought-records excavated from Mehicania date some of the earliest interactions with the Dolo-Dolo
-at present-day Sorha went back to at least 950 PF. The recording was of an explorer following one of the rivers, possibly
+Fragments of Kureran thought-records excavated from Mehicania date some of the earliest interactions with the Dolo-Dolo at present-day Sorha went back to at least 950 PF. The recording was of an explorer following one of the rivers, possibly the Tamisami River that runs through the entirety of the Forest region, was rescued by a band of Dolo-Dolo foragers. This remains, to this day, the most extensive ethnography of the Dolo-Dolo. The "thought" from the Kureran thought-recording detailed the initial encounter, their language at the time, and their cultural and technological capabilities. The insight it offered, was that the Dolo-Dolo was not the typical primitive hunter-gatherer. Instead, they had sophisticated techniques that favored a type of subsistence farming that ensured that they had as little an impact to the ecology surrounding them as possible.
+
+Recordings from Old Ahurian sources included similar information years later, but without the level of technical understanding that the Kurerans were able to detail in their account. It is notable, however, that the Old Ahurian recording was roughly 1,000 years after the former recordings, and recent analysis would indicate that the ethnographical details were largely identical. 
+
+After 500 AI, references to Dolo-Dolo dwindled to almost nothing, coinciding with a global trend of a diminishing number of historical manuscripts related to extra-human abilities and races. Any remaining references to them are fictional, religious or allegorical in nature instead. It is now widely believed that the reason for this global trend has something to do with the disappearance of magical energy from the world. Since there was little to no more latent magical energy in the atmosphere, extra-human creatures stopped being born. Eventually the remaining extant populations died out in a few generations. After a few more, living memory of creatures like the Dolo-Dolo likely disappeared, and had been consigned to myth.
+
+It is disputed, however, that the Dolo-Dolo died out. The fact that the most recent reports of Dolo-Dolo communities are consistent with centuries-old records. While some scholars believe that this might mean that many of their cutlural habits and mores are instinctual, others yet believe that they did not die out at all, and have survived in some form throughout the centuries. The debate is still open on this point, and may only be settled after a lengthly anthropological investigation.
+## Ethnography
+
+Dolo-Dolo do not have a similar agriculture to the typical human style. They developed techniques that involve stimulating plant growth with various non-invasive fertilization and irrigation strategies. They planted roots, shrubs and trees in accordance to known growth rates and their community's consumption. They were aware of growing seasons, but they did not make large-scale farms, nor did they domesticate cultivars of common staples. Instead, they have simply "helped" natural growth of flora in their general vicinity. Sorha itself was plentiful enough that they did not need to live as more typical hunter-gatherers do ahd roam a wide area throughout a season, instead, they tailored their diet to what was available in a season. 
+
+In addition, they had a magical tradition similar to those of Druids. Since, however, most Dolo-Dolo already use most of the magical energy they process internally to sustain their large bodies, they have learned to use the Orbs of Enhancement that naturally form in the caverns underneath the Sorhan mountain ranges to help with variations in growth conditions and disease control. 
+
+Dolo-Dolo hunting was very ritualistic and self-sustaining. They only hunted certain species of deer, buffallo and pheasant in apprpriate seasons, and only those who have grown to a certain size and age. This ensured that they would not reduce their population potential. The only animal they ever domesticated, were a variey of Tahusa Valley horse that were able to subsist on a very prolific variety of wild oat.  
+
+Dolo-Dolo homes were built close together, from wood cut deliberately in a ritualistic manner and only under certain conditions. Then the wood is then processed into 2"x2" pieces of lumber. A rectangular hole is then dug into the ground roughly the size of the dwelling. After which, four poles are driven about half a foot diagonally from each corner of the hole. Two rows of lumber are then placed in parallel to each other against the poles on opposing sides. The distance of each pole is most often spaced slightly less than the length of the pieces of lumber used. Above, two more parallel pieces are placed perpendicular to the first layer, this is repeated until a structure of about a height of 7 feet is made. Appropriate gaps for a doorway is left, often facing the direction of the rising sun. Logs are then placed octagonally on top, with a smaller diameter each level, until only a 1'x1' gap is left. Clay is packed to cover the wooden frame and roofing. A hollow log is placed in the middle of the gap as a chimney stack, and is held in place with the clay. Finally, the structure is left to dry in the sun until it hardens. Proximity of each dwelling is dependent on the family unit.
 
 
-## Eastern Tribes Tribes
+## Eastern Tribes
 
 ### Kyanite
 

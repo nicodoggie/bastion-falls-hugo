@@ -18,7 +18,7 @@ The Ahurian Mainland politically stretches across almost the entirety of the Ral
 > the Astow region of Northern Poasah are to be treated as 
 > placeholders.
 
-Kolha, Ahuria's twelfth administrative region, is isolated from the rest of Ahuria, in the center of the Beteran Landmass. It is bounded to the north and west by the Central and Southern Poasan Dioceses, respectively. To the north east, it meets the Gulf of Eternal Dispute. To the south and east, Kolha shares borders with three of its former provinces. Sur and Kalamba to the east, and Ar to the south. These states are 3 of the 5 so-called [Secesionist Principalities](/articles/secessionist-principalities.md) tnat have formed after the death of Kolha XVIII.
+Kolha, Ahuria's twelfth administrative principality, is isolated from the rest of Ahuria, in the center of the Beteran Landmass. It is bounded to the north and west by the Central and Southern Poasan Dioceses, respectively. To the north east, it meets the Gulf of Eternal Dispute. To the south and east, Kolha shares borders with three of its former provinces. Sur and Kalamba to the east, and Ar to the south. These states are 3 of the 5 so-called [Secesionist Principalities](/articles/secessionist-principalities.md) tnat have formed after the death of Kolha XVIII.
 
 ### Tarsan Possessions
 
@@ -37,9 +37,7 @@ Manascula, taken nearly half a century later, is bounded to the west by Burtz an
 
 ### Sorha
 
-Sorha, the capital region of Ahuria and seat of the Ansou Ahuriyata, god-king of all Ahuria, is northwestern-most region of Ahuria. The land is very resource
-rich, with mountain-ranges filled with gemstones and metal ores; forests filled with a variety of wildlife, and the Tears of the Gods, a gulf which is large and
-deep enough to be a good naval base of operations.
+Sorha, the capital principality of Ahuria and seat of the Ansou Ahuriyata, god-king of all Ahuria, is northwestern-most region of Ahuria. The land is very resource rich, with mountain-ranges filled with gemstones and metal ores; forests filled with a variety of wildlife, and the Tears of the Gods, a gulf which is large and deep enough to be a good naval base of operations.
 
 The Hakamisayato, or the Palace on the Isle of the Gods is an island that houses the capital city of the empire. The entire palace complex was built on the northern foot of the Foot of the Sky, the sole mountain in the middle of the island.
 
