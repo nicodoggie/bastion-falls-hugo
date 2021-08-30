@@ -7,9 +7,16 @@ to be 7 main tribes in power within the Forest region of Sorha, and have a cultu
 by many of the Dolo-Dolo themselves, as the Eastern and Western tribes. These groupings are defined by 
 which side of the [Stairway to the Heavens](/places/stairway-to-the-heavens) their ancestral lands lie upon.
 
+Historical references to the Dolo-Dolo were put in question by many modern scholars of Ahurian history prior to the 
+Fall of Burtz. They surmise that most of these histories and records were semi-mythical, whose sources were colored
+by a certain historiographical tradition that ascribed unexplained events or perceptions to popular theological references.
+In these cases, historians believed that Dolo-Dolo sightings were used to explain strange sightings within forest regions
+due to the popularity of the [Tale of the Great Ahuriyata nad the Dolo-Dolo Trickster](). They offer as proof the virtual
+disappearance of Dolo-Dolo sightings and references after 700 Ai. Of course, recent events around the world, where peoples once
+considered mythological have begun to surface, especially actual tribes in Sorha who call themselves the Dolo-Dolo have renewed
+interest in re-examining these histories and called into question the historiographical theories on the subject.
 
 ## Mythology
-
 ### Ahurian Tradition
 
 Most Ahurians have only heard of the Dolo-Dolo through the Tale of the Great Ahuriyata and the Dolo-Dolo Trickster.
@@ -34,7 +41,7 @@ So as the Great Ahuriyata entered the Forest of the Dolo-Dolo, Herasi takes the 
 distress to lure the renowned hero into a trap.
 
 The Ahuriyata falls for the deception after a very convincing performance. Before Herasi was able to land the final
-blow however, a Dolo-Dolo tribesman and his child stumbled upon the scene. With their spears, they drove the 
+blow however, a Dolo-Dolo tribesman and his child stumbled upon the scene. With their> spears, they drove the 
 Deceitful One away. 
 
 Now the Dolo-Dolo tribesman, whose name and lineage differ depending upon the tribe telling the tales, came from
@@ -51,6 +58,43 @@ that is capable of binding creatures of magic such as he within it; To this day,
 Attractor, sits dormant underneath the Dolomite Mountains. 
 
 Some traditions surmise that once the Mother of Orbs escapes its prison, it would allow the sphere they call the
-Orb of Binding to feed upon that larger, more directed source of magic and free Herasi to commit his crimes onec.
+Orb of Binding to feed upon that larger, more directed source of magic and free Herasi to commit his crimes once more.
 
 ## History
+
+Evidence suggests that the Dolo-Dolo were the first settlers of the Ralakan Continent. Earliest fossils of
+Dolo-Dolo settlements were found in the Purha region. Within 100,000 years, they would have populated regions 
+up to Pise.
+
+Fragments of Kureran thought-records excavated from Mehicania date some of the earliest interactions with the Dolo-Dolo
+at present-day Sorha went back to at least 950 PF. The recording was of an explorer following one of the rivers, possibly
+
+
+## Eastern Tribes Tribes
+
+### Kyanite
+
+Chief: Pasha
+Children:
+  - Tonto
+  - Char'hi
+
+
+### Boleite
+
+Chief: Fisiha
+
+### Cobaltite
+
+Chief: Mineseta
+
+### Ekanite
+
+Chief: Kahawato
+
+### Natrolite
+
+Chief: Panakulho
+
+
+## Western Tribes
