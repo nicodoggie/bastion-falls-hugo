@@ -6,5 +6,9 @@
     "markdown",
     "latex",
     "plaintext"
-  ]
+  ],
+  "path-autocomplete.pathMappings": {
+    "/": "${folder}/docs",
+    "$root": "${folder}//docs"
+  }
 }

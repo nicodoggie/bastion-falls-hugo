@@ -4,5 +4,10 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"path-autocomplete.pathMappings": {
+			"/": "${folder}/docs",
+			"$root": "${folder}/docs"
+		}
+	}
 }

@@ -1,7 +1,7 @@
 # Dolo-Dolo
 
 The Dolo-Dolo are a race of magically-enhanced humanoids found primarily in the Forest region of Sorha, but
-do exist elsewhere in the [Ralakan continent(/continents/ralaka). They are an intelligent, but highly traditional 
+do exist elsewhere in the [Ralakan continent](/continents/ralaka.md). They are an intelligent, but highly traditional 
 and ritualistic people whose lives revolve around the protection and stabilization of their tribes. There are said 
 to be 7 main tribes in power within the Forest region of Sorha, and have a cultural divide that is, as delineated
 by many of the Dolo-Dolo themselves, as the Eastern and Western tribes. These groupings are defined by 
