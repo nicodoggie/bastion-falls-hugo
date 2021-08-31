@@ -8,6 +8,9 @@
 		"path-autocomplete.pathMappings": {
 			"/": "${folder}/docs",
 			"$root": "${folder}/docs"
-		}
+		},
+		"spellright.language": [
+			"en"
+		]
 	}
 }
