@@ -72,7 +72,7 @@ Recordings from Old Ahurian sources included similar information years later, bu
 
 After 500 AI, references to Dolo-Dolo dwindled to almost nothing, coinciding with a global trend of a diminishing number of historical manuscripts related to extra-human abilities and races. Any remaining references to them are fictional, religious or allegorical in nature instead. It is now widely believed that the reason for this global trend has something to do with the disappearance of magical energy from the world. Since there was little to no more latent magical energy in the atmosphere, extra-human creatures stopped being born. Eventually the remaining extant populations died out in a few generations. After a few more, living memory of creatures like the Dolo-Dolo likely disappeared, and had been consigned to myth.
 
-It is disputed, however, that the Dolo-Dolo died out. The fact that the most recent reports of Dolo-Dolo communities are consistent with centuries-old records. While some scholars believe that this might mean that many of their cultural habits and mores are instinctual, others yet believe that they did not die out at all, and have survived in some form throughout the centuries. The debate is still open on this point, and may only be settled after a lengthy anthropological investigation.
+It is disputed, however, that the Dolo-Dolo died out and reborn in the style of the Verdines and the Cornups. The fact that the most recent reports of Dolo-Dolo communities are consistent with centuries-old records. While some scholars believe that this might mean that many of their cultural habits and mores are instinctual, others yet believe that they did not die out at all, and have survived in some form throughout the centuries. The debate is still open on this point, and may only be settled after a lengthy anthropological investigation.
 ## Ethnography
 
 Dolo-Dolo do not have a similar agriculture to the typical human style. They developed techniques that involve stimulating plant growth with various non-invasive fertilization and irrigation strategies. They planted roots, shrubs and trees in accordance to known growth rates and their community's consumption. They were aware of growing seasons, but they did not make large-scale farms, nor did they domesticate cultivars of common staples. Instead, they have simply "helped" natural growth of flora in their general vicinity. Sorha itself was plentiful enough that they did not need to live as more typical hunter-gatherers do and roam a wide area throughout a season, instead, they tailored their diet to what was available in a season. 
@@ -83,6 +83,26 @@ Dolo-Dolo hunting was very ritualistic and self-sustaining. They only hunted cer
 
 Dolo-Dolo homes were built close together, from wood cut deliberately in a ritualistic manner and only under certain conditions. Then the wood is then processed into 2"x2" pieces of lumber. A rectangular hole is then dug into the ground roughly the size of the dwelling. After which, four poles are driven about half a foot diagonally from each corner of the hole. Two rows of lumber are then placed in parallel to each other against the poles on opposing sides. The distance of each pole is most often spaced slightly less than the length of the pieces of lumber used. Above, two more parallel pieces are placed perpendicular to the first layer, this is repeated until a structure of about a height of 7 feet is made. Appropriate gaps for a doorway is left, often facing the direction of the rising sun. Logs are then placed in an octagon shape on top, with a smaller diameter each level, until only a 1'x1' gap is left. Clay is packed to cover the wooden frame and roofing. A hollow log is placed in the middle of the gap as a chimney stack, and is held in place with the clay. Finally, the structure is left to dry in the sun until it hardens. Proximity of each dwelling is dependent on the family unit.
 
+### Rules of Hospitality
+
+### Martial Traditions
+
+In the earliest days of the interactions between the Dolo-Dolo and the Kurerans, the intelligent, gentle giants of the Ralakan contintent did not have need to field and train large armies from its ranks, or train in a formalized style of fighting. The Dolo-Dolo tribes were rarely in conflict with each other for too long. Since the forests were plentiful, and the mountains dispensed means of easing the world's random ills, they aren't pushed by the typical troubles of famine and pestilence. They welcome death as a dear friend, as most die of old age and weariness instead of pain and disease. That was, until other peoples and races have discovered their lands, and the riches they contained. 
+
+Traditionally, Dolo-Dolo settled conflicts and aggression among themselves by invoking the **Rite of Satisfaction**. It is a ritualized dispute resolution mechanism where parties involved may choose one willing and able champion to fight to the death for their cause. It was to signify that they were willing to defend their argument to the death. If one party chooses to yield the argument, they would be allowed to live, but at the cost of their reputation. Their belief is that one who invokes the rite must have made the effort to truly believe in the truth of their cause that they would be willing to die for it, and yielding proves that they, in fact, do not have that confidence regarding the weight of their argument, and that they were foolish enough to only see through their error at risk of death.
+
+There were only a few rules in the performance of a **Rite of Satisfaction**. All parties must agree with the following rules and stipulations:
+  1. That the source of conflict was irreconcilable by non-violent means
+  2. That all effort had been exhausted in the attempt of resolving the conflict by those means 
+  3. That parties involved must understand the implications of the Rite of Satisfaction. 
+  4. That parties must agree upon a boon to be given to the winning party. 
+  5. That arms or spells which affect the opposing forces' state of mind are prohibited.
+  6. That arms or spells which might cause harm outside the parties involved are prohibited.
+  7. That arms or spells which allow travel beyond the bounds of the rite are prohibited.
+  8. That once a champion yells yield, the rite has ended. Any violence will no longer have the protection of the rite.
+  9. That the results of the Rite of Satisfaction must be honored by all parties, and the boon be rightfully awarded to the winner.
+  10. Further dispute on the matter, with the exact same parties involved can no longer invoke the Rite of Satisfaction, as a party should have already been satisfied.
+  11. Death be to those that cause harm regarding the matter after satisfaction had been granted. 
 
 ## Eastern Tribes
 
@@ -106,7 +126,7 @@ Chief: Mineseta
 
 Chief: Kahawato
 
-### Natrolite
+### Natrolite440
 
 Chief: Panakulho
 
